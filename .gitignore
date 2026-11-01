@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Copy/Temporary files
+*copy*
+*.tmp
+
+# Dataset bulk images (preserve sample images for demo & testing, use image download.py to fetch full dataset)
+products_images/*/*.jpg
+products_images/*/*.png
+products_images/*/*.bmp
+products_images/GUI app.py
+!products_images/*/000001.*
+!products_images/*/000002.*

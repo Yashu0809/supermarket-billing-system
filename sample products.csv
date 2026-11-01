@@ -1,0 +1,17 @@
+product_id,product_name,variant_description,category,brand,pack_size,units,price_inr
+1,Maggi_Noodles,Masala 70g,Packaged Foods,Nestle,70 g,1,12
+2,Tata_Salt,Iodized,Staples,Tata,1 kg,1,25
+3,Aashirvaad_Atta,Whole Wheat Flour,Staples,Aashirvaad,5 kg,1,250
+4,Amul_Butter,Pasturized,Dairy,Amul,100 g,1,55
+5,Parle_G,Regular,Biscuits,Parle,150 g,1,20
+6,Surf_Excel_Detergent,Quick Wash,Cleaning,Surf Excel,1 kg,1,110
+7,Dettol_Handwash,Liquid Original,Personal Care,Dettol,250 ml,1,99
+8,Lays_Chips_20rs_pack,Magic Masala,Snacks,Lays,52 g,1,20
+9,Fortune_Sunflower_Oil,Refined,Staples,Fortune,1 L,1,120
+10,Brooke_Bond_Red_Label,Loose Tea,Beverages,Brooke Bond,500 g,1,180
+11,oreo_biscuit_20rs_pack,20rs_pack,Biscuits,Oreo,120g,1,20
+12,milk_bikis_cream_biscuit_35rs_pack,35rs_pack,Biscuits,Milk Bikis,150g,1,35
+13,snickers_chocolate,20rs_pack,Chocolate,Snickers,40g,1,20
+14,five_star_oreo_chocolate,standard,Chocolate,5 Star Oreo,42g,1,20
+15,Kelloggs_Oats_199rs_pack,Plain Oats,Packaged Foods,Kellogg's,1 kg,1,199
+16,Freedom_Rice_Bran_Oil,Refined Oil,Staples,Freedom,1 L,1,194
